@@ -1,1 +1,1 @@
-this is git project description 
+this is git project updated description 
